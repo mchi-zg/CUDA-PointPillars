@@ -65,6 +65,10 @@ If a new onnx will be used, please remove the cache file in "./model"
 3. MAX_VOXELS in params.h is used to allocate cache during inference.
 Decrease the value to save memory.
 
+Blog
+English blog - https://developer.nvidia.com/blog/detecting-objects-in-point-clouds-with-cuda-pointpillars/ 
+Chinese blog - 使用 NVIDIA CUDA-Pointpillars 检测点云中的对象 - NVIDIA 开发者博客 (https://developer.nvidia.com/zh-cn/blog/detecting-objects-in-point-clouds-with-cuda-pointpillars/) 
+
 ## References
 
 - [PointPillars: Fast Encoders for Object Detection from Point Clouds](https://arxiv.org/abs/1812.05784)
